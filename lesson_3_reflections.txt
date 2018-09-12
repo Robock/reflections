@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+A remote repository is used when you want to share your project with other people 
+or when you want to push your commits from one device to another through GitHub.
