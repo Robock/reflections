@@ -3,3 +3,10 @@ local?
 
 A remote repository is used when you want to share your project with other people 
 or when you want to push your commits from one device to another through GitHub.
+
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+Pulling changes manually instead of Git automatically update remote repository allows 
+users to make sure nothing they don't want to share yet is pulled to a remote repository. 
