@@ -20,4 +20,10 @@ of the repository and any changes you make to the forked file would not be refle
 the original file. If you clone a repository, make changes to it, commit and push, if the 
 original file owner wants to accept your push, it will chane the original file. Branching is
 a little different from the above two because braching creates a separate branch from the
-master in which you can make changes and commit. 
+master in which you can make changes and commit.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is so that changes are tracked without our local commits being out of sync
+with the remote repository. 
