@@ -9,4 +9,15 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
 
 Pulling changes manually instead of Git automatically update remote repository allows 
-users to make sure nothing they don't want to share yet is pulled to a remote repository. 
+users to make sure nothing they don't want to share yet is pulled to a remote repository.
+
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another? 
+
+The difference between forks, clones and branches is: when you fork, you're making a copy 
+of the repository and any changes you make to the forked file would not be reflected in 
+the original file. If you clone a repository, make changes to it, commit and push, if the 
+original file owner wants to accept your push, it will chane the original file. Branching is
+a little different from the above two because braching creates a separate branch from the
+master in which you can make changes and commit. 
